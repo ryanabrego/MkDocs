@@ -11,7 +11,7 @@ nav:
       - Usage: getting-started/usage.md
 
 theme:
-  name: material  # or 'readthedocs', 'mkdocs', etc.
+  name: mkdocs  # or 'readthedocs', 'mkdocs', etc.
 
 markdown_extensions:
   - toc:
