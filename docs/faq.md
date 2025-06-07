@@ -1,3 +1,3 @@
 # Frequently Asked Questions
-## Aak some questions?
+## Ask some questions?
 Answer the questions. 
