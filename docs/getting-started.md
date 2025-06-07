@@ -1,4 +1,6 @@
-# Getting Started with MkDocs
-## Download MkDocs
-1. Go to mkdocs.com.
-2. Click **Download**.
+# Getting Started 
+## Provide some preliminary info
+1. Add some steps.
+2. Add ore steos with **things to click on**.
+   * Add some bullets too
+   * Add more bullets
