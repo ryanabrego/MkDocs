@@ -1,0 +1,24 @@
+site_name: My Documentation Site
+site_url: https://ryanabrego.github.io/MkDocs/
+site_description: A sample documentation project using MkDocs
+site_author: Ryan Abrego
+
+nav:
+  - Home: index.md
+  - About: about.md
+  - Getting Started:
+      - Installation: getting-started/installation.md
+      - Usage: getting-started/usage.md
+
+theme:
+  name: material  # or 'readthedocs', 'mkdocs', etc.
+
+markdown_extensions:
+  - toc:
+      permalink: true
+  - tables
+  - fenced_code
+  - admonition
+
+plugins:
+  - search
