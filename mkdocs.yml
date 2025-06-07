@@ -4,7 +4,7 @@ repo_url: https://github.com/ryanabrego/MKDocs
 repo_name: GitHub
 
 theme: 
-  name: mkdocs
+  name: material
 
 nav: 
   - Home: index.md
