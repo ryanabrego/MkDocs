@@ -1,6 +1,8 @@
 # About
-What is site about? Who will use it? What is it's purpose?
-Here is a table. It will tell you how to use some markdown syntax.
+
+You can create a table using dashes and piping.
+You can use syntax to add formatting.
+
 | Feature       | Supported | Notes                          |
 |---------------|-----------|--------------------------------|
 | Headings      | Yes       | Use `#` or `##`                |
