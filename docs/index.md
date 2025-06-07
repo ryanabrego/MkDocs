@@ -1,5 +1,5 @@
-#Home
-From Words to Workflows: The Story of Ryan Abrego and the Docs-as-Code Revolution
+# Home
+## From Words to Workflows: The Story of Ryan Abrego and the Docs-as-Code Revolution
 
 Ryan Abrego wasn’t always obsessed with YAML, Git branches, and Markdown files. But after more than 20 years in the world of technical writing, guiding SaaS and enterprise software teams, and building high-performing content teams, he saw a transformation coming—and he leaned in.
 
