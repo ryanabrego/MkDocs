@@ -10,7 +10,7 @@ nav:
   - Home: index.md
   - About: about.md
   - FAQ: faq.md
-  - Getting_Started: gettings_started.md
+  - Getting_Started: getting_started.md
 
 plugins:
   - search
