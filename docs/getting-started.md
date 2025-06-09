@@ -1,6 +1,6 @@
 # Getting Started 
-## Provide some preliminary info
+## This is a heading
 1. Add some steps.
-2. Add ore steps with **things to click on**.
+2. Add more steps with **things to click on**.
    * Add some bullets too
    * Add more bullets
