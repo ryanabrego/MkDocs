@@ -1,3 +1,3 @@
-# Docs-as-Code
+# Docs-as-Code Projects
 
 Coming soon!
