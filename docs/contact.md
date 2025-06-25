@@ -2,6 +2,8 @@ Feel free to contact me to inquire about services, request work samples, or sche
 
 **Phone:** 610-909-6599
 
-**Email:** ryan.abrego@gmail.com
+**Email:** [ryan.abrego@gmail.com](mailto:ryan.abrego@gmail.com)
 
-**Meet:** https://calendly.com/ryan-abrego
+**Meet:** [https://calendly.com/ryan-abrego](https://calendly.com/ryan-abrego)
+
+
