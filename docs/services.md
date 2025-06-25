@@ -1,8 +1,6 @@
 # Services
 
-A wide range of consulting services are available ro organizations, especially those scaling rapidly, adopting new technologies, or requiring documentation strategy. These services sit at the intersection of content, engineering, product, and customer experience. 
-
-The following consulting services are available. Contact or schedule a meeting for more information on rates and details. 
+A wide range of consulting services are available to organizations, especially those scaling rapidly, adopting new technologies, or requiring documentation strategy. These services sit at the intersection of content, engineering, product, and customer experience. Contact or schedule a meeting for more information on rates and details. 
 
 ## Documentation Strategy & Information Architecture
 
