@@ -1,4 +1,4 @@
-Feel free to contact me to inquire about services, request work samples, or schedule a meeting. 
+Contact me to inquire about services, request work samples, or schedule a meeting. 
 
 **Phone:** 610-909-6599
 
