@@ -4,3 +4,4 @@ I built this site using Markdown for content, GitHub and Git Bash for version co
 
 These sites can be used for user guides, API documentation, reference manuals, and internal developer documentation. In addition, I can use Python to automate quality assurance and publishing. See [Python & Automation](python/).
 
+![Picture](images/github-pic.png)
