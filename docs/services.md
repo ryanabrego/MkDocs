@@ -12,7 +12,7 @@ A wide range of consulting services are available to organizations that are scal
 
 ## Docs-as-Code Transformation
 
-* Migrate teams from legacy tools (e.g., Word, Confluence) to Markdown/Git-based pipelines
+* Migrate teams from legacy tools (e.g., Word, Author-it, DITA) to Markdown/Git-based pipelines
 
 * Implement static site generators (MkDocs, Docusaurus, Hugo)
 
