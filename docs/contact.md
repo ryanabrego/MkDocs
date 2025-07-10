@@ -1,9 +1,7 @@
-Contact me to inquire about services, request work samples, or schedule a meeting. 
+Contact me on LinkedIn to inquire about services or consult on a project. 
 
-**Phone:** 610-909-6599
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/ryanabrego/)
 
-**Email:** [ryan.abrego@gmail.com](mailto:ryan.abrego@gmail.com)
 
-**Meet:** [https://calendly.com/ryan-abrego](https://calendly.com/ryan-abrego)
 
 
