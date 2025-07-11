@@ -16,7 +16,8 @@ Docs-as-code is more than just a toolset; it is a mindset. By applying software 
 This model enables technical writers to work alongside developers in the same environment, which improves efficiency and alignment.
 
 ## Featured Projects
-Developer Portal
+
+### Developer Portal
 A comprehensive developer hub for internal and external APIs, built with MkDocs and hosted on GitHub Pages. Key features include:
 
 * OpenAPI-based endpoint references
@@ -27,7 +28,7 @@ A comprehensive developer hub for internal and external APIs, built with MkDocs 
 
 * Versioned documentation aligned with each API release
 
-## Product Onboarding Guide
+### Product Onboarding Guide
 An interactive onboarding experience for enterprise customers, built with Docusaurus. The project includes:
 
 * Step-by-step walkthroughs for new users
@@ -36,7 +37,7 @@ An interactive onboarding experience for enterprise customers, built with Docusa
 
 * Embedded videos and in-product links
 
-## Internal Knowledge Base
+### Internal Knowledge Base
 A living documentation site for engineering, DevOps, and support teams, created with MkDocs Material. Features include:
 
 * Role-based navigation for different teams
