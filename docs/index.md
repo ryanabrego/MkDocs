@@ -1,6 +1,6 @@
 Welcome to my technical documentation portfolio. This site showcases my writing style, tools knowledge, and management experience, as well as my approach to creating clear, user-focused content using a modern docs-as-code workflow. Each section highlights how documentation integrates into agile product development, DevOps practices, and user experience design.
 
-Whether you're interested in API reference material, Python-powered automation, or scalable content strategies, this site provides examples of real-world techniques, tooling, and workflows used to deliver high-quality documentation for software products.
+Whether you're interested in DITA content management systems, API reference material, Python-powered automation, or scalable content strategies, this site provides examples of real-world techniques, tooling, and workflows used to deliver high-quality documentation for software products.
 
 ## What You'll Find Here
 * **Team Management**: Insights into leading distributed documentation teams in agile environments
