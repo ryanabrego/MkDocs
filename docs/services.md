@@ -18,6 +18,14 @@ A wide range of consulting services are available to organizations that are scal
 
 * Automate build/deploy processes with GitHub Actions or GitLab CI
 
+## DITA Content Migration
+
+* Migrate content from legacy tools (e.g., Word, Google Docs, Confluence) to a DITA CMS
+
+* Re-structure content per DITA standards for reuse and single-sourcing
+
+* Map styles and perform post-migration cleanup and testing
+
 ## Content Governance & Style Guides
 
 * Create company-wide documentation standards and style guides
