@@ -1,4 +1,4 @@
-Welcome to my technical writing portfolio. This site showcases my writing style, tools knowledge, and management experience, as well as my approach to creating clear, user-focused content using a modern docs-as-code workflow. Each section highlights how documentation integrates into agile product development, DevOps practices, and user experience design.
+Welcome to my technical writing portfolio. This site showcases my writing style, tools knowledge, and management experience, as well as my approach to creating clear, user-focused content using a modern tools that meet the needs of the end user. Each section highlights how agile project methodologies, DevOps practices, and user experience design integrate into the documentation workflow.
 
 Whether you're interested in DITA content management systems, API reference material, Python-powered automation, or scalable content strategies, this site provides examples of real-world techniques, tooling, and workflows used to deliver high-quality documentation for software products.
 
